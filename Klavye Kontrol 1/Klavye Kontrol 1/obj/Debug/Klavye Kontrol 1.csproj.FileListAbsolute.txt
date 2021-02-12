@@ -1,0 +1,9 @@
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\bin\Debug\Klavye Kontrol 1.exe.config
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\bin\Debug\Klavye Kontrol 1.exe
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\bin\Debug\Klavye Kontrol 1.pdb
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\obj\Debug\Klavye Kontrol 1.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\obj\Debug\Klavye_Kontrol_1.Form1.resources
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\obj\Debug\Klavye_Kontrol_1.Properties.Resources.resources
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\obj\Debug\Klavye Kontrol 1.csproj.GenerateResource.Cache
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\obj\Debug\Klavye Kontrol 1.exe
+E:\Yedek\C#\Klavye Kontrol 1\Klavye Kontrol 1\obj\Debug\Klavye Kontrol 1.pdb

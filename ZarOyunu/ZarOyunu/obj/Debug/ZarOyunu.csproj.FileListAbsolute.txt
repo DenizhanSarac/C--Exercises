@@ -1,0 +1,9 @@
+E:\Yedek\C#\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+E:\Yedek\C#\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe
+E:\Yedek\C#\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.pdb
+E:\Yedek\C#\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Form1.resources
+E:\Yedek\C#\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Properties.Resources.resources
+E:\Yedek\C#\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.GenerateResource.Cache
+E:\Yedek\C#\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.exe
+E:\Yedek\C#\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.pdb

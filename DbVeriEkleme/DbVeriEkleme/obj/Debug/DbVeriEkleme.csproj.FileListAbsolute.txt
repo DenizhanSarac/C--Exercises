@@ -1,0 +1,9 @@
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\bin\Debug\DbVeriEkleme.exe.config
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\bin\Debug\DbVeriEkleme.exe
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\bin\Debug\DbVeriEkleme.pdb
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\obj\Debug\DbVeriEkleme.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\obj\Debug\DbVeriEkleme.Form1.resources
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\obj\Debug\DbVeriEkleme.Properties.Resources.resources
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\obj\Debug\DbVeriEkleme.csproj.GenerateResource.Cache
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\obj\Debug\DbVeriEkleme.exe
+E:\Yedek\C#\DbVeriEkleme\DbVeriEkleme\obj\Debug\DbVeriEkleme.pdb

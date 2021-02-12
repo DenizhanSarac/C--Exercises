@@ -1,0 +1,9 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\bin\Debug\Rastgele.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\obj\Debug\Rastgele.csprojResolveAssemblyReference.cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\obj\Debug\Rastgele.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\obj\Debug\Rastgele.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\obj\Debug\Rastgele.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\bin\Debug\Rastgele.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\bin\Debug\Rastgele.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\obj\Debug\Rastgele.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Rastgele\Rastgele\obj\Debug\Rastgele.pdb

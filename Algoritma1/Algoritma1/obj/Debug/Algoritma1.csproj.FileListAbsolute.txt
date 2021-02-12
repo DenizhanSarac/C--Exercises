@@ -1,0 +1,9 @@
+E:\Yedek\C#\Algoritma1\Algoritma1\bin\Debug\Algoritma1.exe.config
+E:\Yedek\C#\Algoritma1\Algoritma1\bin\Debug\Algoritma1.exe
+E:\Yedek\C#\Algoritma1\Algoritma1\bin\Debug\Algoritma1.pdb
+E:\Yedek\C#\Algoritma1\Algoritma1\obj\Debug\Algoritma1.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\Algoritma1\Algoritma1\obj\Debug\Algoritma1.Form1.resources
+E:\Yedek\C#\Algoritma1\Algoritma1\obj\Debug\Algoritma1.Properties.Resources.resources
+E:\Yedek\C#\Algoritma1\Algoritma1\obj\Debug\Algoritma1.csproj.GenerateResource.Cache
+E:\Yedek\C#\Algoritma1\Algoritma1\obj\Debug\Algoritma1.exe
+E:\Yedek\C#\Algoritma1\Algoritma1\obj\Debug\Algoritma1.pdb

@@ -1,0 +1,10 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\bin\Debug\FormlarGecis.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\bin\Debug\FormlarGecis.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\bin\Debug\FormlarGecis.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.csprojResolveAssemblyReference.cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.Form2.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\FormlarGecis\FormlarGecis\obj\Debug\FormlarGecis.pdb

@@ -1,0 +1,9 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\bin\Debug\Pizzaci.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\bin\Debug\Pizzaci.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\bin\Debug\Pizzaci.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csprojResolveAssemblyReference.cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.pdb

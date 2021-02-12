@@ -1,0 +1,8 @@
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\bin\Debug\TimerleRenklendirme.exe.config
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\bin\Debug\TimerleRenklendirme.exe
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\bin\Debug\TimerleRenklendirme.pdb
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\obj\Debug\TimerleRenklendirme.Form1.resources
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\obj\Debug\TimerleRenklendirme.Properties.Resources.resources
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\obj\Debug\TimerleRenklendirme.csproj.GenerateResource.Cache
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\obj\Debug\TimerleRenklendirme.exe
+E:\Yedek\C#\TimerleRenklendirme\TimerleRenklendirme\obj\Debug\TimerleRenklendirme.pdb

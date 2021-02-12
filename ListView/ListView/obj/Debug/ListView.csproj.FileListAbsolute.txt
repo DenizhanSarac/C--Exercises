@@ -1,0 +1,9 @@
+E:\Yedek\C#\ListView\ListView\bin\Debug\ListView.exe.config
+E:\Yedek\C#\ListView\ListView\bin\Debug\ListView.exe
+E:\Yedek\C#\ListView\ListView\bin\Debug\ListView.pdb
+E:\Yedek\C#\ListView\ListView\obj\Debug\ListView.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\ListView\ListView\obj\Debug\ListView.Form1.resources
+E:\Yedek\C#\ListView\ListView\obj\Debug\ListView.Properties.Resources.resources
+E:\Yedek\C#\ListView\ListView\obj\Debug\ListView.csproj.GenerateResource.Cache
+E:\Yedek\C#\ListView\ListView\obj\Debug\ListView.exe
+E:\Yedek\C#\ListView\ListView\obj\Debug\ListView.pdb

@@ -1,0 +1,8 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.pdb

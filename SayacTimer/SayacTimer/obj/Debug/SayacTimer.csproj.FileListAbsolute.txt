@@ -1,0 +1,9 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\bin\Debug\SayacTimer.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\bin\Debug\SayacTimer.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\bin\Debug\SayacTimer.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csprojResolveAssemblyReference.cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.pdb

@@ -1,0 +1,9 @@
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\bin\Debug\SqlServerileKayıtEklemeSilme.exe.config
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\obj\Debug\SqlServerileKayıtEklemeSilme.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\obj\Debug\SqlServerileKayıtEklemeSilme.Form1.resources
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\obj\Debug\SqlServerileKayıtEklemeSilme.Properties.Resources.resources
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\obj\Debug\SqlServerileKayıtEklemeSilme.csproj.GenerateResource.Cache
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\bin\Debug\SqlServerileKayıtEklemeSilme.exe
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\bin\Debug\SqlServerileKayıtEklemeSilme.pdb
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\obj\Debug\SqlServerileKayıtEklemeSilme.exe
+E:\Yedek\C#\SqlServerileKayıtEklemeSilme\SqlServerileKayıtEklemeSilme\obj\Debug\SqlServerileKayıtEklemeSilme.pdb

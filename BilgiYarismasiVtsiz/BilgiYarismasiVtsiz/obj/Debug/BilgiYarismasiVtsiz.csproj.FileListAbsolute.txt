@@ -1,0 +1,9 @@
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\bin\Debug\BilgiYarismasiVtsiz.exe.config
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\obj\Debug\BilgiYarismasiVtsiz.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\obj\Debug\BilgiYarismasiVtsiz.Form1.resources
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\obj\Debug\BilgiYarismasiVtsiz.Properties.Resources.resources
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\obj\Debug\BilgiYarismasiVtsiz.csproj.GenerateResource.Cache
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\bin\Debug\BilgiYarismasiVtsiz.exe
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\bin\Debug\BilgiYarismasiVtsiz.pdb
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\obj\Debug\BilgiYarismasiVtsiz.exe
+E:\Yedek\C#\BilgiYarismasiVtsiz\BilgiYarismasiVtsiz\obj\Debug\BilgiYarismasiVtsiz.pdb

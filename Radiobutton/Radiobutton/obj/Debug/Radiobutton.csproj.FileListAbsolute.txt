@@ -1,0 +1,9 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\bin\Debug\Radiobutton.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\obj\Debug\Radiobutton.csprojResolveAssemblyReference.cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\obj\Debug\Radiobutton.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\obj\Debug\Radiobutton.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\obj\Debug\Radiobutton.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\bin\Debug\Radiobutton.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\bin\Debug\Radiobutton.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\obj\Debug\Radiobutton.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\Radiobutton\Radiobutton\obj\Debug\Radiobutton.pdb

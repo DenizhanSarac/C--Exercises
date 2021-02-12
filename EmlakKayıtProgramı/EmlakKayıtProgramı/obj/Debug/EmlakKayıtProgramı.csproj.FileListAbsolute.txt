@@ -1,0 +1,10 @@
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\bin\Debug\EmlakKayıtProgramı.exe.config
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\bin\Debug\EmlakKayıtProgramı.exe
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\bin\Debug\EmlakKayıtProgramı.pdb
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.Form1.resources
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.Properties.Resources.resources
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.csproj.GenerateResource.Cache
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.exe
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.pdb
+E:\Yedek\C#\EmlakKayıtProgramı\EmlakKayıtProgramı\obj\Debug\EmlakKayıtProgramı.Form2.resources

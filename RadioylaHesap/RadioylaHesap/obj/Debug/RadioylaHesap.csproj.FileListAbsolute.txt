@@ -1,0 +1,8 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\bin\Debug\RadioylaHesap.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\bin\Debug\RadioylaHesap.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\bin\Debug\RadioylaHesap.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\obj\Debug\RadioylaHesap.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\obj\Debug\RadioylaHesap.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\obj\Debug\RadioylaHesap.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\obj\Debug\RadioylaHesap.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\RadioylaHesap\RadioylaHesap\obj\Debug\RadioylaHesap.pdb

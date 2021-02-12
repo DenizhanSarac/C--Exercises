@@ -1,0 +1,9 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\MatematikHesaplamaları.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\MatematikHesaplamaları.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\MatematikHesaplamaları.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.csprojResolveAssemblyReference.cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\MatematikHesaplamaları.pdb

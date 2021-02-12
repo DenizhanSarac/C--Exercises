@@ -1,0 +1,8 @@
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\bin\Debug\MiniHesaplayici.exe.config
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\obj\Debug\MiniHesaplayici.Form1.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\obj\Debug\MiniHesaplayici.Properties.Resources.resources
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\obj\Debug\MiniHesaplayici.csproj.GenerateResource.Cache
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\bin\Debug\MiniHesaplayici.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\bin\Debug\MiniHesaplayici.pdb
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\obj\Debug\MiniHesaplayici.exe
+C:\Users\dnzhn\OneDrive\Masaüstü\C#\MiniHesaplayici\MiniHesaplayici\obj\Debug\MiniHesaplayici.pdb
