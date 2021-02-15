@@ -54,3 +54,54 @@
 
 * Sql'de bulunan verilerin ListView'e aktarılmasını sağlayan bir programdır.
 * It is a program that enables the data in Sql to be transferred to ListView.
+
+### MatematikHesaplamaları (Mathematical Calculations)
+
+* Kare ve Dikdörtgen için alan ve çevre hesaplamaları yapan programdır.
+* Programs that calculate area and perimeter for Square and Rectangle.
+
+### MiniHesaplayici (Small Calculator)
+
+* Basit Toplama işlemi yapan bir programdır.
+* It is a program that does Simple Addition.
+
+### Pizzaci (Pizzeria)
+
+* Sql veri tabanı içermeyen sipariş alma uygulamasıdır.
+* It is an order taking application without SQL database.
+
+### RadioButton
+
+* Temel bir uygulama örneğidir.
+* It is a basic application example.
+
+### RadioylaHesap (Calculate with RadioButton)
+
+* RadioButton kullanılarak 4 işlem yapan bir uygulamadır.
+* It is an application that performs 4 operations using RadioButton.
+
+### Rastgele (Random)
+
+* Random kütüphanesinin kullanılması için yazılmış bir uygulamadır.
+* It is an application written for the use of the Random library.
+
+### SayacTimer (Timer)
+
+* Bulunan Rastgele bir sayıdan itibaren sayım yapan bir programdır.
+* It is a program that counts from a random number found.
+
+### SqlServerileKayıtEklemeSilme (Adding Records and Deletions with Sql Server )
+
+* Sql'e veri eklemek ve silmek için yazılmış bir programdır.
+* It is a program for adding and delete data to SQL
+
+### TimerleRenklendirme (Coloring with the timer)
+
+* Timerle Renklendirme.
+* Coloring with the timer.
+
+### ZarOyunu (Dice)
+
+* Bu bir zar oyunudur.
+* This is a dice game.
+
