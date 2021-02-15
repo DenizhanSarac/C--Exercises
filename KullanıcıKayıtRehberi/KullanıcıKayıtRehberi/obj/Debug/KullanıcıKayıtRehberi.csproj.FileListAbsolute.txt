@@ -6,3 +6,12 @@ C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıt
 C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csproj.GenerateResource.Cache
 C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.exe
 C:\Users\dnzhn\OneDrive\Masaüstü\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.pdb
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe.config
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.exe
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.pdb
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.pdb
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csprojResolveAssemblyReference.cache
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.Form1.resources
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.Properties.Resources.resources
+E:\Yedek\C#\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\Debug\KullanıcıKayıtRehberi.csproj.GenerateResource.Cache

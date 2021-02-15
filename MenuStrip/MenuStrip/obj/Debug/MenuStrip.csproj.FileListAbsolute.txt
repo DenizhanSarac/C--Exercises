@@ -1,9 +1,0 @@
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csprojResolveAssemblyReference.cache
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.Cache
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
-C:\Users\dnzhn\OneDrive\Masaüstü\C#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
