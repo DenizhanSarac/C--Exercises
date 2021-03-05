@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A68E2DB7-23D7-4306-BBC5-107A6876851C}</ProjectGuid>
+    <ProjectGuid>{7292F573-9DF2-47B3-819C-10AE51558AEA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GameOfLand</RootNamespace>
-    <AssemblyName>GameOfLand</AssemblyName>
+    <RootNamespace>Web_Tarayıcı</RootNamespace>
+    <AssemblyName>Web Tarayıcı</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -44,24 +44,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BilgiYarismasi.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BilgiYarismasi.Designer.cs">
-      <DependentUpon>BilgiYarismasi.cs</DependentUpon>
-    </Compile>
-    <Compile Include="BlackJack.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BlackJack.Designer.cs">
-      <DependentUpon>BlackJack.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Dunya.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Dunya.Designer.cs">
-      <DependentUpon>Dunya.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,15 +52,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="BilgiYarismasi.resx">
-      <DependentUpon>BilgiYarismasi.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BlackJack.resx">
-      <DependentUpon>BlackJack.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Dunya.resx">
-      <DependentUpon>Dunya.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

@@ -9,3 +9,4 @@ E:\Yedek\C#\GameOfLand\GameOfLand\obj\Debug\GameOfLand.exe
 E:\Yedek\C#\GameOfLand\GameOfLand\obj\Debug\GameOfLand.pdb
 E:\Yedek\C#\GameOfLand\GameOfLand\obj\Debug\GameOfLand.BilgiYarismasi.resources
 E:\Yedek\C#\GameOfLand\GameOfLand\obj\Debug\GameOfLand.BlackJack.resources
+E:\Yedek\C#\GameOfLand\GameOfLand\obj\Debug\GameOfLand.Dunya.resources
